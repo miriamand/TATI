@@ -1,0 +1,2 @@
+Escritura en ficheros
+Otra LineaY la misma linea
